@@ -1,0 +1,23 @@
+
+
+train: "C:\\Users\\DELL\\Desktop\\YOLOv11-OBB\\data\\engineering_drawings\\images\\train"
+val: "C:\\Users\\DELL\\Desktop\\YOLOv11-OBB\\data\\engineering_drawings\\images\\val"
+
+nc: 15
+
+names:
+  0: Title Block
+  1: Note
+  2: General Tolerance
+  3: Surface Roughness
+  4: Thread
+  5: Material
+  6: Diameter
+  7: Radius
+  8: Measures
+  9: GD&T
+  10: Feature Table
+  11: Description Table
+  12: Bore
+  13: Angle
+  14: Chamfer
