@@ -1,7 +1,7 @@
 
 
-train: "C:\\Users\\DELL\\Desktop\\YOLOv11-OBB\\data\\engineering_drawings\\images\\train"
-val: "C:\\Users\\DELL\\Desktop\\YOLOv11-OBB\\data\\engineering_drawings\\images\\val"
+train: "/kaggle/working/Engineering_Drawings_features_detections/data/engineering_drawings/images/train"
+val: "/kaggle/working/Engineering_Drawings_features_detections/data/engineering_drawings/images/val"
 
 nc: 15
 
