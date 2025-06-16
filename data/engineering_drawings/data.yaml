@@ -3,7 +3,7 @@
 train: "/kaggle/working/Engineering_Drawings_features_detections/data/engineering_drawings/images/train"
 val: "/kaggle/working/Engineering_Drawings_features_detections/data/engineering_drawings/images/val"
 
-nc: 12
+nc: 13
 
 names:
   0: Title Block
